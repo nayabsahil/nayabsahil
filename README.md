@@ -26,6 +26,6 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=NayabSahil&theme=gruvbox)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nayabsahil/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/nayabsahil)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/your-twitter/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/NayabSahil)
