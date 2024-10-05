@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Nayab Sahil!
-### I'm a passionate Full Stack Developer and AI Enthusiast.
+### I'm a passionate Full Stack Developer and Cybersecurity Enthusiast.
 
 <!-- Profile views -->
 ![Profile views](https://komarev.com/ghpvc/?username=NayabSahil&color=brightgreen)
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on **ScreenAI project**
-- 🌱 I’m learning **Application-level caching solutions like Redis/Memcached**
-- 💬 Ask me about **Python, MERN Stack, and Machine Learning**
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 🔭 I’m currently working on **Cybersecurity Threat Detection and Prevention System**
+- 🌱 I’m learning **IDS, malware analysis**
+- 💬 Ask me about **Cybersecurity, Software Development, MERN Stack, and Cloud services**
+- 📫 How to reach me: [nayabsahil.cse@gmail.com](mailto:nayabsahil.cse@gmail.com)
 - ⚡ Fun fact: I love exploring open-source projects and hackathons!
 
 ## 🛠️ Tech Stack
